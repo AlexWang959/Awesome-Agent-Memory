@@ -31,6 +31,7 @@ As LLM agents move from simple chatbots to autonomous entities, **Memory** is th
 | **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis** | [arXiv](https://arxiv.org/) | Vertical application in healthcare. |
 | **Agentic Reasoning for Large Language Models: A Survey** | [arXiv](https://arxiv.org/) | [Code](https://github.com/) Comprehensive overview. |
 | **LightMem: Lightweight and Efficient Memory-Augmented Generation** | [GitHub](https://github.com/) | Practical, low-latency implementation. |
+| **Tree Ring Memory** | [GitHub](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Local-first memory lifecycle layer for AI agents with recall, forgetting, audit, and consolidation. |
 
 ---
 
